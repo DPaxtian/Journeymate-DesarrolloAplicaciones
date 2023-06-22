@@ -42,7 +42,7 @@ Daniel Eduardo Anota Paxtian
 ![Actualizar rutina](./Imagenes/actualizar_rutina.jpg)  
 
 
-###Cliente web
+### Cliente web  
 ![Inicio de sesión](./Imagenes/web_login.jpg)
 
 ![Registrar usuario](./Imagenes/web_registrarse.jpg)  
